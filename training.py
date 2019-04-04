@@ -14,7 +14,7 @@ endpoint = "https://snowboy.kitt.ai/api/v1/train/"
 ############# MODIFY THE FOLLOWING #############
 token = "304ea969120c44cd8ab79b1e674d59e78d099d1e"
 hotword_name = "???"
-language = "en"
+language = "ot"
 age_group = "20_29"
 gender = "M"
 microphone = "macbook microphone"
